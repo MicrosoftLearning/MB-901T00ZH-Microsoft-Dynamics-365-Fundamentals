@@ -5,7 +5,7 @@ lab:
 ---
 
 # MB-901: Dynamics 365 Fundamentals 
-## 模块 7, 实验室 1 - 探索 Dynamics 365 Finance 
+## 模块 7，实验室 1 - 探索 Dynamics 365 Finance 
 
 
 **必备项**：在执行本实验的步骤之前，请执行

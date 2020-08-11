@@ -5,7 +5,7 @@ lab:
 ---
 
 # MB-901: Dynamics 365 Fundamentals
-## 模块 13, 实验室 1：从头开始生成第一个模型驱动应用
+## 模块 13，实验室 1：从头开始生成第一个模型驱动应用
 
 **场景:** 你需要使用 Power Apps 环境中提供的标准实体之一来简化创建模型驱动的应用的过程。模型驱动的应用无法在 Power Apps 移动应用中运行。但是，你可以在移动设备上使用 Dynamics 365 移动应用或在手机上的 Web 浏览器运行模型驱动应用。
 
@@ -20,9 +20,9 @@ lab:
 16.	单击 **“打开”**。
 17.	单击 **“新建应用”**。
 19.	在 **“创建新应用”** 页面上，输入以下详细信息，然后单击 **“完成”**：
-    - **名称:**键入 **“GuideToPowerApp”**。
-    - **唯一名称:**默认情况下，唯一名称使用你在“名称”框中指定的名称，不带空格，并以发布者前缀和下划线 (_) 开头。
-    - **说明:**键入 **“GuideToPowerApp”**。
+    - **名称:** 键入 **“GuideToPowerApp”**。
+    - **唯一名称:** 默认情况下，唯一名称使用你在“名称”框中指定的名称，不带空格，并以发布者前缀和下划线 (_) 开头。
+    - **说明:** 键入 **“GuideToPowerApp”**。
 20.	单击 **“完成”**。
 21.	从应用设计器中，你可以向应用中添加组件。选择**站点地图**按钮上的铅笔图标打开站点地图设计器。
 22.	你将要使用此 Power App 中的“帐户”实体来管理客户帐户。
@@ -43,4 +43,4 @@ lab:
 34.	查看结果并与你的第一个模型驱动应用程序进行交互。
 35.	通过从设备的应用商店安装适用于手机的 Dynamics 365 或适用于平板电脑的 Dynamics 365 应用，在移动设备上进行尝试。详细信息：https://docs.microsoft.com/dynamics365/customer-engagement/mobile-app/install-dynamics-365-for-phones-and-tablets
 36.	直接在手机的网络浏览器中输入应用程序 URL，然后按照屏幕上的说明加载应用。 
-  **备注:**你的应用程序 URL 的示例如下所示：https://orgxxxxx.crm.dynamics.com/main.aspx?appid=e4547538-e20f-ea01-a811-000d3a33438d&pagetype=entitylist&etn=account
+  **备注:** 你的应用程序 URL 的示例如下所示：https://orgxxxxx.crm.dynamics.com/main.aspx?appid=e4547538-e20f-ea01-a811-000d3a33438d&pagetype=entitylist&etn=account
