@@ -1,17 +1,17 @@
 ﻿---
 lab:
     title: '实验室教学 01： 探索 Dynamics 365 Finance'
-    module: '模块 10： Dynamics 365 Finance 简介'
+    module: '模块 07： Dynamics 365 Finance 简介'
 ---
 
 # MB-901: Dynamics 365 Fundamentals 
-## 模块 10, 实验室 1 - 探索 Dynamics 365 Finance 
+## 模块 7, 实验室 1 - 探索 Dynamics 365 Finance 
 
 
 **必备项**：在执行本实验的步骤之前，请执行
 以下任务： 
 
-**备注:**在执行之前，你需要一个已部署演示数据的环境
+**备注:** 在执行之前，你需要一个已部署演示数据的环境
 这个实验室。你的 Dynamics 365 Finance and Operations 应用实例可以是
 从 LCS 启动或直接转到实例的 URL。
 

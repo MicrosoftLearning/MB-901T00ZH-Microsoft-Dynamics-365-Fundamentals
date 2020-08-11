@@ -1,13 +1,13 @@
 ﻿---
 lab:
     title: '实验室教学 01：从头开始构建你的第一个模型驱动应用'
-    module: '模块 04：连接并分析你的 Dynamics 365 数据'
+    module: '模块 13：连接并分析你的 Dynamics 365 数据'
 ---
 
 # MB-901: Dynamics 365 Fundamentals
-## 模块 4, 实验室 1：从头开始生成第一个模型驱动应用
+## 模块 13, 实验室 1：从头开始生成第一个模型驱动应用
 
-**场景:**你需要使用 Power Apps 环境中提供的标准实体之一来简化创建模型驱动的应用的过程。模型驱动的应用无法在 Power Apps 移动应用中运行。但是，你可以在移动设备上使用 Dynamics 365 移动应用或在手机上的 Web 浏览器运行模型驱动应用。
+**场景:** 你需要使用 Power Apps 环境中提供的标准实体之一来简化创建模型驱动的应用的过程。模型驱动的应用无法在 Power Apps 移动应用中运行。但是，你可以在移动设备上使用 Dynamics 365 移动应用或在手机上的 Web 浏览器运行模型驱动应用。
 
 使用窗口的实时 ID 登录到 Power Apps。如果你还没有 Power Apps 帐户，请从 https://signup.microsoft.com/Start?sku=powerapps_viral&ru=https%3a%2f%2fweb.powerapps.com%2flogin%2fportal 选择“开始使用”免费链接
 
