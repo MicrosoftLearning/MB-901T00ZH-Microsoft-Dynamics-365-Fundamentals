@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室教学 01：探索 Dynamics 365 Supply Chain Management'
     module: '模块 08：Dynamics 365 Supply Chain Management 简介'
