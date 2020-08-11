@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室教学 01：探索 Dynamics 365 Sales'
     module: '模块 03：Dynamics 365 Sales 简介'
