@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室教学 01：探索 Dynamics 365 Customer Service'
     module: '模块 05：Dynamics 365 Customer Service 简介'

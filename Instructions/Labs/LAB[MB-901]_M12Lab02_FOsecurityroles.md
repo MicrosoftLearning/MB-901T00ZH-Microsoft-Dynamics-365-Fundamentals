@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 02： 探索 Dynamics 365 Finance and Operations 应用程序中的安全角色'
     module: '模块 12：识别 Dynamics 365 安全性'
