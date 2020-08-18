@@ -1,10 +1,10 @@
 ﻿---
 lab:
-    title: '实验室教学 01： 探索 Dynamics 365 Marketing'
-    module: '模块 04： Dynamics 365 Marketing 简介'
+    title: '实验室教学 01: 探索 Dynamics 365 Marketing'
+    module: '模块 04: Dynamics 365 Marketing 简介'
 ---
 
-# MB-901: Dynamics 365 Fundamentals 
+# MB-901: Dynamics 365 基础知识 
 ## 模块 4，实验室 1 - 探索 Dynamics 365 Marketing
 
 **先决条件：** 在执行本实验的步骤之前，请执行以下任务： 

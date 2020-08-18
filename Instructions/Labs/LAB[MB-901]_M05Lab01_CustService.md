@@ -1,10 +1,10 @@
----
+﻿---
 lab:
-    title: '实验室教学 01：探索 Dynamics 365 Customer Service'
-    module: '模块 05：Dynamics 365 Customer Service 简介'
+    title: '实验室教学 01: 探索 Dynamics 365 Customer Service'
+    module: '模块 05: Dynamics 365 Customer Service 简介'
 ---
 
-# MB-901: Dynamics 365 Fundamentals 
+# MB-901: Dynamics 365 基础知识 
 ## 模块 5，实验 1 - 探索 Dynamics 365 Customer Service 
 
 **先决条件：** 在执行本实验的步骤之前，请执行以下任务： 

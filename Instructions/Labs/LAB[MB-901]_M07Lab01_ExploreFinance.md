@@ -1,10 +1,10 @@
----
+﻿---
 lab:
-    title: '实验室教学 01： 探索 Dynamics 365 Finance'
-    module: '模块 07： Dynamics 365 Finance 简介'
+    title: '实验室教学 01: 探索 Dynamics 365 Finance'
+    module: '模块 07: Dynamics 365 Finance 简介'
 ---
 
-# MB-901: Dynamics 365 Fundamentals 
+# MB-901: Dynamics 365 基础知识 
 ## 模块 7，实验室 1 - 探索 Dynamics 365 Finance 
 
 

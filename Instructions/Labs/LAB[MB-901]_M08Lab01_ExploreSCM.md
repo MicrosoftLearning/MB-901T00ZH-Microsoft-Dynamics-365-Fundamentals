@@ -1,10 +1,10 @@
----
+﻿---
 lab:
-    title: '实验室教学 01：探索 Dynamics 365 Supply Chain Management'
-    module: '模块 08：Dynamics 365 Supply Chain Management 简介'
+    title: '实验室教学 01: 探索 Dynamics 365 Supply Chain Management'
+    module: '模块 08: Dynamics 365 Supply Chain Management 简介'
 ---
 
-# MB-901: Dynamics 365 Fundamentals 
+# MB-901: Dynamics 365 基础知识 
 ## 模块 8，实验室 1 - 探索 Dynamics 365 Supply Chain Management
 
 ### 创建一个产品
