@@ -11,7 +11,7 @@ lab:
 
 ## 说明
 
-1. 要导航到 Dynamics 365“设置”仪表板，请在 Dynamics 365 商业应用程序的 URL 链接末尾添加 **“?settingsonly=true”**。URL 应如下所示: **https://crmYOURID.crm.dynamics.com/main.aspx?settingsonly=true**。 （此示例仅供演示，如果导航至该链接，无法打开。）
+1. 要导航到 Dynamics 365“设置”仪表板，请在 Dynamics 365 商业应用程序的 URL 链接末尾添加 **“?settingsonly=true”**。URL 应如下所示: **https://crmYOURID.crm.dynamics.com/main.aspx?settingsonly=true** 。（此示例仅供演示，如果导航至该链接，无法打开。）
 2. 出现 **“系统”** 设置仪表板。
 3. 使用“操作”窗格中的 **“Dynamics 365”** > **“设置”** 菜单查看菜单项。在 **“系统”** 组区域中, 选择 **“安全”**
 4. 出现 **“安全”** 仪表板。从仪表板中选择 **“安全角色”**。 
