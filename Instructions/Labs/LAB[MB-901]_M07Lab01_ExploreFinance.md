@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室教学 01: 探索 Dynamics 365 Finance'
     module: '模块 07: Dynamics 365 Finance 简介'
