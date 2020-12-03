@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 01：探索 Dynamics 365 Marketing'
     module: '模块 04：Dynamics 365 Marketing 简介'
